@@ -1,0 +1,13 @@
+map coordinates
+Coordinate	:	14.655680219, 120.982966862
+
+
+Image1 - [Apparel 1] WebTeach LABS T-Shirt  ₱400
+Image2 - [Apparel 2] Graphics Card T-Shirt  ₱400
+Image3 - [Apparel 3] WebTeach LABS Hoodie ₱550
+Image4 - [Apparel 4] Display Layer T-Shirt  ₱400
+Image5 - [Apparel 5] I'm an Electronics Technician not a Magician T-Shirt ₱400
+Image6 - [Apparel 6] Doggy Hoodie ₱350
+Image7 - [Apparel 7] .RAW ₱400
+Image8 - [Apparel 8] DIGITIZE ₱400
+Image9 - [Apparel 9] Chips Computer Design ₱400
